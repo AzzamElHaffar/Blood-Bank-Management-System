@@ -44,15 +44,15 @@ It was built as an academic/portfolio project to demonstrate a full desktop **MV
 
 **Login Page**
 
-![Login Page](Blood_Bank_Management_System_1/assets/screenshots/login_page.png)
+![Login Page](Blood_Bank_Managment_System_1/assets/screenshots/login_page.png)
 
 **Dashboard**
 
-![Dashboard Page](Blood_Bank_Management_System_1/assets/screenshots/dashboard_page.png)
+![Dashboard Page](Blood_Bank_Managment_System_1/assets/screenshots/dashboard_page.png)
 
 **Blood Quantity Overview**
 
-![Blood Quantity Page](Blood_Bank_Management_System_1/assets/screenshots/blood_quantity_page.png)
+![Blood Quantity Page](Blood_Bank_Managment_System_1/assets/screenshots/blood_quantity_page.png)
 
 ## Features
 
